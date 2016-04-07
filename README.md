@@ -6,7 +6,7 @@ Click on a notebook to view it using GitHub's viewer,
 or use the following nbviewer links to view them
 with nicer formatting:
 
-- [TensorFlow Scan Examples](https://github.com/rdipietro/tensorflow-notebooks/blob/master/tensorflow_scan_examples/tensorflow_scan_examples.ipynb). Simple `scan` examples, including a vanilla RNN from scratch.
+- [TensorFlow Scan Examples](https://nbviewer.jupyter.org/github/rdipietro/tensorflow-notebooks/blob/master/tensorflow_scan_examples/tensorflow_scan_examples.ipynb). Simple `scan` examples, including a vanilla RNN from scratch.
 
 To experiment with a notebook yourself:
 
