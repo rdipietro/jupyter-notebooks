@@ -1,0 +1,60 @@
+<style>
+
+/*
+ * This file is adapted from
+ * https://github.com/barbagroup/AeroPython/blob/master/styles/custom.css
+ */
+
+#notebook_panel { /* main background */
+    background: rgb(245,245,245);
+}
+
+div.cell { /* set cell width */
+    width: 800px;
+    margin: auto;
+}
+
+div.text_cell {
+    line-height: 140%;
+    font-size: 110%;
+    width: 650px;
+    margin: auto;
+}
+
+div #notebook { /* centre the content */
+    background: #fff; /* white background for content */
+    width: 1200px;
+    margin: auto;
+}
+
+#notebook li { /* More space between bullet points */
+    margin-top:0.25em;
+}
+
+/* Formatting for header cells */
+.text_cell_render h1 {
+    font-size: 36pt;
+    text-align: center;
+}	
+.text_cell_render h2 {
+    font-size: 18pt;
+    text-align: center;
+}	
+.text_cell_render h3 {
+    font-size: 12pt;
+    text-align: center;
+}	
+.text_cell_render h4 {
+    font-size: 10pt;
+    text-align: center;
+}	
+.text_cell_render h5 {
+    font-size: 10pt;
+    text-align: center;
+}	
+
+a.anchor-link{
+    display:none
+}
+
+</style>
