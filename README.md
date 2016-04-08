@@ -1,10 +1,9 @@
 # tensorflow-notebooks
 
-A collection of public TensorFlow IPython notebooks.
+A collection of TensorFlow IPython notebooks.
 
-Click on a notebook to view it using GitHub's viewer,
-or use the following nbviewer links to view them
-with nicer formatting:
+Use the following links to view the notebooks with
+custom formatting:
 
 - [TensorFlow Scan Examples](https://nbviewer.jupyter.org/github/rdipietro/tensorflow-notebooks/blob/master/tensorflow_scan_examples/tensorflow_scan_examples.ipynb). Simple `scan` examples, including a vanilla RNN from scratch.
 
